@@ -5,9 +5,9 @@
 <h1 align="center">Hi 👋, I'm Artem Andreev</h1>
 <h3 align="center">A young programmer with big dreams</h3>
 
-- 🔭 I’m currently working on [DailyMate project](https://github.com/artem-andreyev/DailyMate-project)
+- 🔭 I’m currently working on [React admin panel + PHP](https://github.com/artem-andreyev/react-admin-panel)
 
-- 🌱 I’m currently learning **JavaScript, React**
+- 🌱 I’m currently learning **JavaScript, React, PHP**
 
 - 📫 How to reach me **artem.andreyev212@gmail.com**
 
